@@ -21,9 +21,6 @@ python calculator.py
 
 A interface gráfica da calculadora será aberta.
 
-## Exemplo
-![Exemplo da Calculadora](https://user-images.githubusercontent.com/48198740/placeholder.png)
-
 ---
 
 Desenvolvido por [Leo5677](https://github.com/Leo5677)
